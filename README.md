@@ -32,17 +32,17 @@ I'm a passionate **Data Scientist** and **Junior Python Developer** with a knack
 ### 🎓 **Student Dropout Prediction App**
 - **Description**: A Streamlit-based app that predicts student dropout risk.
 - **Tech Stack**: Python, Streamlit, Scikit-learn, Pandas.
-- **GitHub Repo**: [Link to Repository](#)
+- **GitHub Repo**: [https://github.com/Insight00001/Studentdropout.git](#)
 
 ### 🌐 **Stroke Prediction Model**
 - **Description**: Predicts stroke risk using advanced machine learning techniques.
 - **Tech Stack**: Python, Scikit-learn, Pandas, XGBoost, Random Forest.
-- **GitHub Repo**: [Link to Repository](#)
+- **GitHub Repo**: [https://github.com/Insight00001/stroke-prediction.git](#)
 
 ### 🎮 **CIFAR-100 Image Classification**
-- **Description**: Implemented transfer learning with MobileNetV2 to classify CIFAR-100 images.
+- **Description**: Implemented transfer learning with RESNET50 to classify CIFAR-100 images.
 - **Tech Stack**: Python, TensorFlow, Keras, CNNs.
-- **GitHub Repo**: [Link to Repository](#)
+- **GitHub Repo**: [https://github.com/Insight00001/CIFAR100.git](#)
 
 ---
 
